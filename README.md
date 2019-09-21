@@ -24,10 +24,10 @@ The above image illustrates the achitecture used in the project.
 
 | Full Name | Student ID | Contribution | Email |
 | :------------ |:---------------:|:------------ |:---------------:| 
-| Akshay Sachdeva | A0198532W | Project idea, Backend code, Frontend code, Project Report, Video Recording, User Guide, Deployment on AWS,  Testing, Logo Design  | e0402073@u.nus.edu |
-| Aniket Mohan Arasanipalai | A0198481N | Project idea,Backend code, Project Report, Video Recording, Testing | e0402022@u.nus.edu |
-| Siddhant Naveria  | A0198485H |Project idea, Frontend code, Testing, Video Recording | e0402031@u.nus.edu |
-| Ma Weizhong | A0198426R | Project idea, Backend code,Domain Expert, Testing | e0402045@u.nus.edu |
+| Akshay Sachdeva | A0198532W | Project idea, Backend code, Frontend code, Project Report, Video Recording, User Guide, Deployment on AWS,  Testing, Logo Design, Stock Domain knowledge  | e0402073@u.nus.edu |
+| Aniket Mohan Arasanipalai | A0198481N | Project idea,Backend code, Project Report, Video Recording, Stock Domain knowledge, Testing | e0402022@u.nus.edu |
+| Siddhant Naveria  | A0198485H |Project idea, Frontend code, Testing, Video Recording, Stock Domain knowledge | e0402031@u.nus.edu |
+| Ma Weizhong | A0198426R | Project idea, J2EE backend  framework(Restful Services, Genetic & Decision Tree algorithms, Java call Python etc), Stock Domain knowledge, Testing| e0402045@u.nus.edu |
 
 ---
 ## SECTION 4 : VIDEO OF SYSTEM MODELLING & USE CASE DEMO
