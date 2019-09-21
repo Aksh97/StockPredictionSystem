@@ -40,10 +40,6 @@ The above image illustrates the achitecture used in the project.
 [View SIA Assist User Guide](https://github.com/SrikarNamburu/siaAssist/blob/master/Project%20User%20Guide/SIA%20Assist%20User%20Guide.pdf)
 
 
-### Here are some things you can ask SIA!
-<img src="Miscellaneous/Capture.PNG"
-     style="float: left; margin-right: 0px;" />
-
 ---
 ## SECTION 6 : PROJECT REPORT / PAPER
 
