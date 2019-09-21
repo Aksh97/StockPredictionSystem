@@ -1,5 +1,5 @@
 ## SECTION 1 : PROJECT TITLE
-### Sia Assist - Personal Airport Assistant
+### Intelligent Stock Prediction System
 
 <img src="Miscellaneous/logo.png"
      style="float: left; margin-right: 0px;" />
@@ -7,14 +7,14 @@
 ---
 ## SECTION 2 : EXECUTIVE SUMMARY
 
-In this project, we designed an intelligent chatbot called ‘SIA Assist’, that
-can be primarily used to obtain information on all aspects of Singapore’s Changi Airport in a more efficient and responsive way that accommodates for differences in syntax of questioning grammar but is still able to return a relevant response based on keywords in the query via Natural Language Processing (NLP).
 
-Our proposed chatbot shows true effectiveness when the system has access to user’s travel
-information so that his responses can be personalised - either by integrating the chatbot with
-an airline application or obtaining his travel information in some other form.
+We began by getting a good understanding of the overall key processes of the proposed solution by mapping them out with data acquisition modelling. Next, we determined the areas which needed targeting that we agreed should be implemented into business processes. We also made sure we analysed the processes with our improvements and see how these improvements were handled with test cases to validate our assumptions.
 
-<img src="Miscellaneous/Sia-architecture.png"
+Our primary objective is to enable a user to understand the historical stock prices and provide him the visibility into the movement of the stock prices for the following day. For this project, we have considered companies from the NASDAQ 100 Stock List. 
+
+
+
+<img src="Miscellaneous/arch.png"
      style="float: left; margin-right: 0px;" />
 
 The above image illustrates the achitecture used in the project.
@@ -24,11 +24,10 @@ The above image illustrates the achitecture used in the project.
 
 | Full Name | Student ID | Contribution | Email |
 | :------------ |:---------------:|:------------ |:---------------:| 
-| Akshay Sachdeva | A0198532W | Project idea, Web scraping, Backend code, Dialogflow Configuration, Project Report, Testing | e0402073@u.nus.edu |
-| Aniket Mohan Arasanipalai | A0198481N | Project idea, Web scraping, Project Report, Video Recording, Dialogflow Configuration, Testing | e0402022@u.nus.edu |
-| Srikar Namburu | A0198490N |Project idea, Web scraping, Backend code, User Guide, Dialogflow Configuration, Testing, Logo Design | e0402031@u.nus.edu |
-| Vishaag Suriyanarayanan | A0198504X | Project idea, Bot Architecture, Backend code, User Guide, Video editing, Dialogflow Configuration,Testing | e0402045@u.nus.edu |
-
+| Akshay Sachdeva | A0198532W | Project idea, Backend code, Frontend code, Project Report, Video Recording, User Guide, Deployment on AWS,  Testing, Logo Design  | e0402073@u.nus.edu |
+| Aniket Mohan Arasanipalai | A0198481N | Project idea,Backend code, Project Report, Video Recording, Testing | e0402022@u.nus.edu |
+| Siddhant Naveria  | A0198485H |Project idea, Frontend code, Testing, Video Recording | e0402031@u.nus.edu |
+| Ma Weizhong | A0198426R | Project idea, Backend code, Testing | e0402045@u.nus.edu |
 
 ---
 ## SECTION 4 : VIDEO OF SYSTEM MODELLING & USE CASE DEMO
@@ -40,10 +39,6 @@ The above image illustrates the achitecture used in the project.
 
 [View SIA Assist User Guide](https://github.com/SrikarNamburu/siaAssist/blob/master/Project%20User%20Guide/SIA%20Assist%20User%20Guide.pdf)
 
-
-### Here are some things you can ask SIA!
-<img src="Miscellaneous/Capture.PNG"
-     style="float: left; margin-right: 0px;" />
 
 ---
 ## SECTION 6 : PROJECT REPORT / PAPER
