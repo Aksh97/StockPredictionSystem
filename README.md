@@ -26,7 +26,7 @@ The above image illustrates the achitecture used in the project.
 | :------------ |:---------------:|:------------ |:---------------:| 
 | Akshay Sachdeva | A0198532W | Project idea, Backend Framework(Data Mining with python, Indicators), Frontend Framework, Project Report, Video Recording, User Guide, Deployment on AWS(Docker, MySql Integration), Logo Design, Stock Domain knowledge, Project Management, Testing(Locally, AWS)  | e0402073@u.nus.edu |
 | Aniket Mohan Arasanipalai | A0198481N | Project idea,Backend Framework(Data Mining with python, Indicators), Project Report, Video Recording, Stock Domain knowledge, Project Management, Testing | e0402022@u.nus.edu |
-| Siddhant Naveria  | A0198485H |Project idea, Frontend Framework(Restful Services), Testing, Video Recording, Stock Domain knowledge | e0402031@u.nus.edu |
+| Siddhant Naveria  | A0198485H |Project idea, Frontend Framework(Design, Restful Services), Testing, Video Recording, Stock Domain knowledge | e0402031@u.nus.edu |
 | Ma Weizhong | A0198426R | Project idea, J2EE backend  framework(Restful Services, Genetic & Decision Tree algorithms, Java call Python, MySql Integration, Data Mining with python ), Stock Domain knowledge, Testing| e0401967@u.nus.edu |
 
 ---
