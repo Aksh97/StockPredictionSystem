@@ -32,15 +32,15 @@ The above image illustrates the achitecture used in the project.
 ---
 ## SECTION 4 : VIDEO OF SYSTEM MODELLING & USE CASE DEMO
 
-[![Demo Video](https://github.com/SrikarNamburu/siaAssist/blob/master/Miscellaneous/Video%20thumbnail.png)](https://drive.google.com/open?id=1NxGUT9XEwIRaKspKbFDFehh8Y2ogrP7H)
+[[Demo Video]](https://www.youtube.com/watch?v=hzJfZM6C5YU&t=126s)
 
 ---
 ## SECTION 5 : USER GUIDE
 
-[View SIA Assist User Guide](https://github.com/SrikarNamburu/siaAssist/blob/master/Project%20User%20Guide/SIA%20Assist%20User%20Guide.pdf)
+[View Intelligent Stock Prediction System User Guide](https://github.com/Aksh97/StockPredictionSystem/blob/master/Project%20User%20Guide/USER%20GUIDE.pdf)
 
 
 ---
 ## SECTION 6 : PROJECT REPORT / PAPER
 
-[View Project Report](https://github.com/SrikarNamburu/siaAssist/blob/master/Project%20Report/SIA%20Assist%20-%20Project%20Report.pdf)
+[View Project Report](https://github.com/Aksh97/StockPredictionSystem/blob/master/Project%20Report/Project_Report_final.pdf)
