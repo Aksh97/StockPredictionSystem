@@ -1,0 +1,12 @@
+{
+    "/api":{
+        "target":"http://localhost:8080/stock-predict/rest",
+        "secure":false,
+        
+        "logLevel": "debug",
+        "pathRewrite": {
+            "^/api": ""
+          }
+
+    }
+}

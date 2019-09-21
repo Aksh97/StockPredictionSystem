@@ -1,0 +1,108 @@
+<div class="homeMain">
+    <div>
+        <nav class="navbar navbar-default bg-dark">
+            <ul class="nav navbar-nav">
+                <li>
+                    <a routerLink="">Home</a>
+                </li>
+            </ul>
+        </nav>
+    </div>
+<table>
+    <tr><td>
+    <div class="card cardForm">
+        <div class="card-body">
+            <form class="Formclass container form-group" >
+                <div class="form-group">
+                    <table>
+                        <tr>
+                            <td>
+
+                    <label for="companyName"><font size="+2"><b>Choose Company</b></font></label>
+                    <select class="form-control ddlist" id="compName" name="compName" size="8" [(ngModel)]="compName">
+                        <option *ngFor="let comd of companyDetails" [ngValue]="comd.fullName">{{comd.fullName}}</option>
+
+                    </select>
+
+                </td>
+                <td> &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;</td>
+                
+                <td>
+                        
+
+                
+                </td>
+                </tr>
+
+
+                </table>
+                
+
+                    
+                </div>
+
+
+
+            
+                <div>
+                <label id="error" style="color:red">{{error}}</label>
+                </div>
+
+                <button type="button" class="btn btn-primary"(click)="submit()">Submit</button>
+            </form>
+        </div>
+
+    </div>
+</td>
+<td> &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;</td>
+<td>
+        <div class="card " style="margin-right: -71px !important; width:30rem; margin-left:10%; height:23rem">
+            <div style="margin-top:10px ;margin-left: 135px !important"><font size="+2"><b>Next Day's Trend</b></font></div>
+            <table>
+                <tr><td>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td></tr>
+                
+                <tr>
+                    <td>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+                    <td>
+                <img style ="margin-right: -71px !important;" src= {{trendImage}} > 
+            </td>
+            </tr>
+            </table>
+        </div>
+
+</td>
+</tr>
+</table>
+<table>
+    <div class="card" style="width:40rem; margin-left:10%; height: auto">
+
+
+        <div class="card-body">
+            <div class="card-title"><font size="+2"><b>Prediction</b></font></div>
+            <table>
+                <tr>
+                    <td>Trend:</td>
+                
+                <td ><b>
+                    {{trend}}
+                </b>
+                </td>
+                </tr>
+                <tr>
+                    <td>Confidence:</td>
+                
+                <td ><b>
+                    {{confidence}}
+                </b>
+                </td>
+            </tr>
+            </table>
+
+
+
+        </div>
+
+    </div>
+</table>
+
+</div>

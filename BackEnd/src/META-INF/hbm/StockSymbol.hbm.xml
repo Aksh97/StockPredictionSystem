@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN" "http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+
+<hibernate-mapping>
+	<class table="COMPANY_NAME" name="com.nus.stock.bean.StockSymbol">
+		<composite-id>
+			<key-property name="symbol" column="SYMBOL"/>
+		</composite-id>
+	    <property name="fullName" column="NAME"/>
+	</class>
+	
+	<query name="getAllStockSymbols">
+		<![CDATA[
+	  		from StockSymbol
+	  	]]>
+	</query>
+	
+</hibernate-mapping>

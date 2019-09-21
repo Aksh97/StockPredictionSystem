@@ -1,0 +1,38 @@
+.ddlist{
+    height: fit-content;
+    width: fit-content;
+    overflow:scroll;
+   
+}
+
+.Formclass{
+
+    margin-top: 1%;
+    margin-left:auto;
+    
+
+}
+
+
+
+.cardForm{
+    width:40rem; 
+    margin-left:10%;
+     padding: fit-content; 
+     margin-top: 1%;
+     margin-bottom: 1%;
+}
+.dateClass{
+    height: fit-content;
+    width: fit-content;
+    
+
+}
+.homeMain{
+    background-image: url("src/assets/intro.jpg");
+    min-height: 760px;
+    min-width: 1024px;
+    background-size: cover;
+    background-position: center
+     
+}
