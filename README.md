@@ -24,23 +24,23 @@ The above image illustrates the achitecture used in the project.
 
 | Full Name | Student ID | Contribution | Email |
 | :------------ |:---------------:|:------------ |:---------------:| 
-| Akshay Sachdeva | A0198532W | Project idea, Backend code, Frontend code, Project Report, Video Recording, User Guide, Deployment on AWS,  Testing, Logo Design  | e0402073@u.nus.edu |
-| Aniket Mohan Arasanipalai | A0198481N | Project idea,Backend code, Project Report, Video Recording, Testing | e0402022@u.nus.edu |
-| Siddhant Naveria  | A0198485H |Project idea, Frontend code, Testing, Video Recording | e0402031@u.nus.edu |
-| Ma Weizhong | A0198426R | Project idea, Backend code, Testing | e0402045@u.nus.edu |
+| Akshay Sachdeva | A0198532W | Project idea, Backend Framework(Data Mining with python, Indicators), Frontend Framework, Project Report, Video Recording, User Guide, Deployment on AWS(Docker, MySql Integration), Logo Design, Stock Domain knowledge, Project Management, Integration(Frontend and Backend), Testing(Locally, AWS)  | e0402073@u.nus.edu |
+| Aniket Mohan Arasanipalai | A0198481N | Project idea,Backend Framework(Data Mining with python, Indicators), Project Report, Video Recording, Stock Domain knowledge, Project Management, Testing | e0402022@u.nus.edu |
+| Siddhant Naveria  | A0198485H |Project idea, Frontend Framework(Design, Restful Services), Testing, Video Recording, Stock Domain knowledge, Integration(Frontend and Backend) | e0402031@u.nus.edu |
+| Ma Weizhong | A0198426R | Project idea, J2EE backend  framework(Restful Services, Genetic & Decision Tree algorithms, Java call Python, MySql Integration, Data Mining with python ), Stock Domain knowledge, Testing| e0401967@u.nus.edu |
 
 ---
 ## SECTION 4 : VIDEO OF SYSTEM MODELLING & USE CASE DEMO
 
-[![Demo Video](https://github.com/SrikarNamburu/siaAssist/blob/master/Miscellaneous/Video%20thumbnail.png)](https://drive.google.com/open?id=1NxGUT9XEwIRaKspKbFDFehh8Y2ogrP7H)
+[[Demo Video]](https://www.youtube.com/watch?v=hzJfZM6C5YU&t=126s)
 
 ---
 ## SECTION 5 : USER GUIDE
 
-[View SIA Assist User Guide](https://github.com/SrikarNamburu/siaAssist/blob/master/Project%20User%20Guide/SIA%20Assist%20User%20Guide.pdf)
+[View Intelligent Stock Prediction System User Guide](https://github.com/Aksh97/StockPredictionSystem/blob/master/Project%20User%20Guide/USER%20GUIDE.pdf)
 
 
 ---
 ## SECTION 6 : PROJECT REPORT / PAPER
 
-[View Project Report](https://github.com/SrikarNamburu/siaAssist/blob/master/Project%20Report/SIA%20Assist%20-%20Project%20Report.pdf)
+[View Project Report](https://github.com/Aksh97/StockPredictionSystem/blob/master/Project%20Report/Project_Report_final.pdf)
